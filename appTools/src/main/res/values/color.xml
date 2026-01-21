@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#333333</color>
+    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorAccent">#4A61F6</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_alpha_100">#ffffffff</color>
+
+    <color name="item_selected_color_light">#1A349ab1</color>
+    <color name="foreground_color_light">#ffffffff</color>
+
+
+    <color name="gray_home">#909090</color>
+    <color name="homecolor1">#1a5cc0 </color>
+
+</resources>

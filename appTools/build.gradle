@@ -1,0 +1,61 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+//    dependencies {
+//        classpath 'com.hujiang.aspectjx:gradle-android-plugin-aspectjx:2.0.10'
+//    }
+}
+
+apply plugin: 'com.android.library'
+//apply plugin: 'android-aspectjx'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        targetSdkVersion 28
+        minSdkVersion 19
+        versionCode 1
+        versionName "1.1"
+        javaCompileOptions {
+            annotationProcessorOptions {
+                includeCompileClasspath true
+            }
+        }
+    }
+    task javadoc(type: Javadoc) {
+        options.encoding = "utf-8"
+    }
+    lintOptions {
+        abortOnError false
+    }
+
+    dependencies {
+        // appcompat
+        api "com.android.support:appcompat-v7:27.1.1"
+        // card view
+        api "com.android.support:cardview-v7:27.1.1"
+        // recycler view
+        api "com.android.support:recyclerview-v7:27.1.1"
+        // multidex
+        api 'com.android.support:multidex:1.0.3'
+        // rxjava
+        api 'io.reactivex.rxjava2:rxjava:2.2.6'
+        api 'io.reactivex.rxjava2:rxandroid:2.1.1'
+        // rxpermissions
+        api 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.5@aar'
+        // gson
+        api 'com.google.code.gson:gson:2.8.2'
+        // glide图片加载
+        api 'com.github.bumptech.glide:glide:3.7.0'
+
+        //自定义注解
+        api 'org.aspectj:aspectjrt:1.8.9'
+
+        // 数据库
+        api 'com.j256.ormlite:ormlite-android:5.0'
+        api 'com.j256.ormlite:ormlite-core:5.0'
+    }
+}

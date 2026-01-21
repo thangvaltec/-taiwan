@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [FacePassAndroidProSDK-year-release.aar] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\18ddb94346c4ecd164f269e6704d4ef8\FacePassAndroidProSDK-year-release\AndroidManifest.xml:2:1-11:12
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\c574507213622b55a66362f2a7f93743\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\bb9931b212c04aa655a20242e9a2e58e\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\bb17c848e2eed5f5be42b75908fa5bff\butterknife-8.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\fec4cefcde01d8fb067cccab8b728261\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\f649a4949de66e5662b947c2d3a1b358\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\272b907167b3ac334f9022c68f5f89f3\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\162090ba820367632561f133492ca57b\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\79028187e8c5b7bcd48fb4193749b0d4\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\14f8bb97a4090c18d81e3ed3f17de110\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\873c3cb8076825ca4c8d14499a2d2e8d\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\0702a45e262b18425ba62cdb19ca814c\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\931859c68609173bb0e7b76f5d5e52a9\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ba97ccec3f9ddec8c853f0178b5157db\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\f0b7516c34716185ad04909628c4688e\rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ed0462fd1c4c8167d897af5da473dcd3\rxpermissions-0.9.5\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\e1f0cc1753cee21bdfd0f2855eb9b55f\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\d0a79e1b2e8c1cd6153ae3a610837c31\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\2fd8f753a5607617d42fcb54bb375f99\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\c7f277e3dc950a968431516f5c34e11e\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-65
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:7:5-67
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-67
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:8:5-79
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:11:5-12:47
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-84
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-84
+	tools:ignore
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.requestLegacyExternalStorage=true
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:14:5-82
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:14:22-79
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:15:5-16:47
+	tools:ignore
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:15:22-65
+application
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:18:5-45:19
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-33:19
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\fec4cefcde01d8fb067cccab8b728261\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\fec4cefcde01d8fb067cccab8b728261\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ed0462fd1c4c8167d897af5da473dcd3\rxpermissions-0.9.5\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ed0462fd1c4c8167d897af5da473dcd3\rxpermissions-0.9.5\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:25:9-40
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:24:9-36
+activity#mcv.testfacepass.MainActivity
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:26:9-32:20
+	android:label
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:30:27-74
+activity#mcv.testfacepass.FacePassActivity
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:33:19-51
+activity#mcv.testfacepass.SettingActivity
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:36:9-37:15
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:36:19-50
+activity#mcv.testfacepass.FaceManageActivity
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:38:9-39:15
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:38:19-53
+activity#mcv.testfacepass.SplashActivity
+ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:41:9-44:20
+	android:theme
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:42:13-71
+	android:name
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml:41:19-49
+uses-sdk
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+MERGED from [FacePassAndroidProSDK-year-release.aar] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\18ddb94346c4ecd164f269e6704d4ef8\FacePassAndroidProSDK-year-release\AndroidManifest.xml:7:5-9:41
+MERGED from [FacePassAndroidProSDK-year-release.aar] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\18ddb94346c4ecd164f269e6704d4ef8\FacePassAndroidProSDK-year-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\c574507213622b55a66362f2a7f93743\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\c574507213622b55a66362f2a7f93743\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\bb9931b212c04aa655a20242e9a2e58e\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\bb9931b212c04aa655a20242e9a2e58e\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\bb17c848e2eed5f5be42b75908fa5bff\butterknife-8.5.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\bb17c848e2eed5f5be42b75908fa5bff\butterknife-8.5.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\fec4cefcde01d8fb067cccab8b728261\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\fec4cefcde01d8fb067cccab8b728261\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\f649a4949de66e5662b947c2d3a1b358\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\f649a4949de66e5662b947c2d3a1b358\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\272b907167b3ac334f9022c68f5f89f3\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\272b907167b3ac334f9022c68f5f89f3\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\162090ba820367632561f133492ca57b\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\162090ba820367632561f133492ca57b\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\79028187e8c5b7bcd48fb4193749b0d4\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\79028187e8c5b7bcd48fb4193749b0d4\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\14f8bb97a4090c18d81e3ed3f17de110\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\14f8bb97a4090c18d81e3ed3f17de110\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\873c3cb8076825ca4c8d14499a2d2e8d\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\873c3cb8076825ca4c8d14499a2d2e8d\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\0702a45e262b18425ba62cdb19ca814c\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\0702a45e262b18425ba62cdb19ca814c\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\931859c68609173bb0e7b76f5d5e52a9\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\931859c68609173bb0e7b76f5d5e52a9\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ba97ccec3f9ddec8c853f0178b5157db\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ba97ccec3f9ddec8c853f0178b5157db\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\f0b7516c34716185ad04909628c4688e\rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\f0b7516c34716185ad04909628c4688e\rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ed0462fd1c4c8167d897af5da473dcd3\rxpermissions-0.9.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\ed0462fd1c4c8167d897af5da473dcd3\rxpermissions-0.9.5\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\e1f0cc1753cee21bdfd0f2855eb9b55f\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\e1f0cc1753cee21bdfd0f2855eb9b55f\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\d0a79e1b2e8c1cd6153ae3a610837c31\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\d0a79e1b2e8c1cd6153ae3a610837c31\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\2fd8f753a5607617d42fcb54bb375f99\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\2fd8f753a5607617d42fcb54bb375f99\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\c7f277e3dc950a968431516f5c34e11e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\thangpv\Palm\android-sdk_1125\caches\transforms-2\files-2.1\c7f277e3dc950a968431516f5c34e11e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thangpv\Palm\Facepass3568\testfacepass\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-81
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-70
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:22-73
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:22-78
+activity#com.google.easyapp.ui.camera.TakePicActivity
+ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-32:57
+	android:theme
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from [:appTools] C:\Users\thangpv\Palm\Facepass3568\appTools\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-72

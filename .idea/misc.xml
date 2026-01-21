@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/drawable/ic_go_back_white.xml" value="0.328" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout-land/activity_facepass.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout-port/activity_facepass.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/activity_facemanage.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/activity_main.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/item_photo_manage.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/layout_dialog_face_operation.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/layout_dialog_sync_groups.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/layout_item_face_token.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/layout_item_group_name.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/setting.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidProject/Facepass3568/testfacepass/src/main/res/layout/toast.xml" value="0.5057291666666667" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/appTools/src/main/res/layout/activity_hello.xml" value="0.21331521739130435" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/appTools/src/main/res/layout/activity_takepic.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/drawable/ic_go_back_white.xml" value="0.1815" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout-land/activity_facepass.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout-land/activity_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout-port/activity_facepass.xml" value="0.16145833333333334" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout-port/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout-port/activity_splash.xml" value="0.18697916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout/activity_facemanage.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout/item_photo_manage.xml" value="0.20833333333333334" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout/layout_dialog_face_operation.xml" value="0.176" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout/layout_dialog_sync_groups.xml" value="0.21331521739130435" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout/layout_item_face_token.xml" value="0.17708333333333334" />
+        <entry key="..\:/AndroidStudioProjects/Facepass3568/testfacepass/src/main/res/layout/setting.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="ms-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

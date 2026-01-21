@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.google.easyapp.cameraengine.core.gpuimage.GPUImageView
+        android:id="@+id/gpuImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null" />
+
+    <com.google.easyapp.cameraengine.widget.DrawInfoView
+        android:id="@+id/drawPointView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/iv_switch"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="right"
+        android:layout_margin="@dimen/dp_10"
+        android:src="@drawable/camera_flip" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/lv_log"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/dp_20">
+
+            <ImageView
+                android:id="@+id/iv_take_pic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="@dimen/dp_10"
+                android:src="@drawable/camera_take_pic" />
+
+        </FrameLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

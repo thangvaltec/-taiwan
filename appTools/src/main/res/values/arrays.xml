@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rotation_arr">
+        <item>0</item>
+        <item>90</item>
+        <item>180</item>
+        <item>270</item>
+    </string-array>
+    <string-array name="flipx_arr">
+        <item>flipx-no</item>
+        <item>flipx-yes</item>
+    </string-array>
+</resources>
+
+

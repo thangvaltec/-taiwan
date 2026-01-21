@@ -1,0 +1,96 @@
+mcv/testfacepass/bean/FaceFeatureBean.java
+ mcv.testfacepass.bean.FaceFeatureBean
+mcv/testfacepass/SplashActivity.java
+ mcv.testfacepass.SplashActivity
+ mcv.testfacepass.SplashActivity$1
+mcv/testfacepass/utils/GoogleWidgetHelper.java
+ mcv.testfacepass.utils.GoogleWidgetHelper
+mcv/testfacepass/adapter/GroupNameAdapter.java
+ mcv.testfacepass.adapter.GroupNameAdapter
+ mcv.testfacepass.adapter.GroupNameAdapter$1
+ mcv.testfacepass.adapter.GroupNameAdapter$ItemDeleteButtonClickListener
+ mcv.testfacepass.adapter.GroupNameAdapter$ViewHolder
+mcv/testfacepass/camera/ComplexFrameHelper.java
+ mcv.testfacepass.camera.ComplexFrameHelper
+mcv/testfacepass/camera/CameraPreviewData.java
+ mcv.testfacepass.camera.CameraPreviewData
+mcv/testfacepass/FacePassActivity.java
+ mcv.testfacepass.FacePassActivity
+ mcv.testfacepass.FacePassActivity$1
+ mcv.testfacepass.FacePassActivity$2
+ mcv.testfacepass.FacePassActivity$3
+ mcv.testfacepass.FacePassActivity$4
+ mcv.testfacepass.FacePassActivity$5
+ mcv.testfacepass.FacePassActivity$FeedFrameThread
+ mcv.testfacepass.FacePassActivity$FeedFrameThread$1
+ mcv.testfacepass.FacePassActivity$FeedFrameThread$2
+ mcv.testfacepass.FacePassActivity$RecognizeData
+ mcv.testfacepass.FacePassActivity$RecognizeThread
+mcv/testfacepass/SettingVar.java
+ mcv.testfacepass.SettingVar
+mcv/testfacepass/Application.java
+ mcv.testfacepass.Application
+mcv/testfacepass/network/ByteRequest.java
+ mcv.testfacepass.network.ByteRequest
+mcv/testfacepass/BaseActivity.java
+ mcv.testfacepass.BaseActivity
+mcv/testfacepass/FaceConfig.java
+ mcv.testfacepass.FaceConfig
+ mcv.testfacepass.FaceConfig$1
+ mcv.testfacepass.FaceConfig$Builder
+mcv/testfacepass/SettingActivity.java
+ mcv.testfacepass.SettingActivity
+mcv/testfacepass/camera/CameraPreview.java
+ mcv.testfacepass.camera.CameraPreview
+ mcv.testfacepass.camera.CameraPreview$CameraPreviewListener
+mcv/testfacepass/FaceManageActivity.java
+ mcv.testfacepass.FaceManageActivity
+ mcv.testfacepass.FaceManageActivity$1
+ mcv.testfacepass.FaceManageActivity$2
+ mcv.testfacepass.FaceManageActivity$3
+ mcv.testfacepass.FaceManageActivity$4
+ mcv.testfacepass.FaceManageActivity$5
+ mcv.testfacepass.FaceManageActivity$5$1
+ mcv.testfacepass.FaceManageActivity$6
+ mcv.testfacepass.FaceManageActivity$7
+mcv/testfacepass/data/DBHelper.java
+ mcv.testfacepass.data.DBHelper
+mcv/testfacepass/FaceView.java
+ mcv.testfacepass.FaceView
+mcv/testfacepass/data/DatabaseHelper.java
+ mcv.testfacepass.data.DatabaseHelper
+mcv/testfacepass/MainActivity.java
+ mcv.testfacepass.MainActivity
+ mcv.testfacepass.MainActivity$1
+ mcv.testfacepass.MainActivity$2
+mcv/testfacepass/camera/CameraManager.java
+ mcv.testfacepass.camera.CameraManager
+ mcv.testfacepass.camera.CameraManager$1
+ mcv.testfacepass.camera.CameraManager$2
+ mcv.testfacepass.camera.CameraManager$3
+ mcv.testfacepass.camera.CameraManager$4
+ mcv.testfacepass.camera.CameraManager$CameraListener
+ mcv.testfacepass.camera.CameraManager$CameraState
+mcv/testfacepass/adapter/FaceTokenAdapter.java
+ mcv.testfacepass.adapter.FaceTokenAdapter
+ mcv.testfacepass.adapter.FaceTokenAdapter$1
+ mcv.testfacepass.adapter.FaceTokenAdapter$2
+ mcv.testfacepass.adapter.FaceTokenAdapter$3
+ mcv.testfacepass.adapter.FaceTokenAdapter$ItemButtonClickListener
+ mcv.testfacepass.adapter.FaceTokenAdapter$ViewHolder
+mcv/testfacepass/utils/FileUtil.java
+ mcv.testfacepass.utils.FileUtil
+mcv/testfacepass/adapter/FeatureItemAdapter.java
+ mcv.testfacepass.adapter.FeatureItemAdapter
+ mcv.testfacepass.adapter.FeatureItemAdapter$1
+ mcv.testfacepass.adapter.FeatureItemAdapter$OnItemClickListener
+ mcv.testfacepass.adapter.FeatureItemAdapter$UserItemViewHolder
+mcv/testfacepass/utils/FacePassManager.java
+ mcv.testfacepass.utils.FacePassManager
+ mcv.testfacepass.utils.FacePassManager$1
+ mcv.testfacepass.utils.FacePassManager$1$1
+ mcv.testfacepass.utils.FacePassManager$2
+ mcv.testfacepass.utils.FacePassManager$FacePassAuthMode
+ mcv.testfacepass.utils.FacePassManager$FacePassSDKMode
+mcv/testfacepass/BuildConfig.java
+ mcv.testfacepass.BuildConfig

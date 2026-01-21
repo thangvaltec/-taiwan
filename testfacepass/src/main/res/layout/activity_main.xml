@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+ <android.support.v7.widget.LinearLayoutCompat
+     android:gravity="start|center_vertical"
+     android:layout_width="match_parent"
+     android:background="@color/colorPrimary"
+     android:layout_height="@dimen/dp_70"
+     >
+
+
+     <TextView
+         android:id="@+id/title"
+         android:layout_width="match_parent"
+         android:layout_centerHorizontal="true"
+         android:layout_height="@dimen/dp_70"
+         android:paddingStart="@dimen/dp_15"
+         android:gravity="center_vertical"
+         android:paddingTop="@dimen/dp_5"
+         android:paddingBottom="@dimen/dp_5"
+         android:text="顔認証システム"
+         android:textColor="#fff"
+         android:textSize="25dp" />
+ </android.support.v7.widget.LinearLayoutCompat>
+
+
+    <Button
+        android:id="@+id/btAddFace"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/dp_50"
+        android:text="顔登録"
+        android:layout_height="@dimen/dp_70"/>
+    <Button
+        android:id="@+id/btFaceDetect"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/dp_10"
+        android:text="顔認証"
+        android:layout_height="@dimen/dp_70"/>
+
+
+</LinearLayout>
